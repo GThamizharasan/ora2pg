@@ -1,0 +1,5 @@
+{
+  "name": "Ora2PG-Web",
+  "description": "An intelligent database migration assistant that converts Oracle SQL and PL/SQL code to PostgreSQL using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
